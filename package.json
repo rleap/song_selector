@@ -2,6 +2,7 @@
   "name": "songs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rleap.github.io/song_selector",
   "dependencies": {
     "@types/react-redux": "^7.0.9",
     "react": "^16.8.6",
@@ -12,6 +13,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

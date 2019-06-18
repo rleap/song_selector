@@ -1,3 +1,9 @@
+# Song Selector
+
+Simple React JS app that displays a list of songs.  You can select a song and it will display the song details.
+
+Demo: <a href="https://rleap.github.io/song_selector">Song Selector</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
