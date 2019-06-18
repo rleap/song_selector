@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/song_selector/static/js/main.3420e32f.chunk.js",
+    "main.js.map": "/song_selector/static/js/main.3420e32f.chunk.js.map",
+    "runtime~main.js": "/song_selector/static/js/runtime~main.1ead1970.js",
+    "runtime~main.js.map": "/song_selector/static/js/runtime~main.1ead1970.js.map",
+    "static/js/2.79afb305.chunk.js": "/song_selector/static/js/2.79afb305.chunk.js",
+    "static/js/2.79afb305.chunk.js.map": "/song_selector/static/js/2.79afb305.chunk.js.map",
+    "index.html": "/song_selector/index.html",
+    "precache-manifest.d14a453426fcceb09ad8908e27c8830d.js": "/song_selector/precache-manifest.d14a453426fcceb09ad8908e27c8830d.js",
+    "service-worker.js": "/song_selector/service-worker.js"
+  }
+}
